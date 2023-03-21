@@ -21,7 +21,7 @@ Hub is a collection of loosely coupled microservices that emits and process mess
 - [Hub Customers](https://github.com/holaplex/hub-customers) - Customer references that receive a treasury for storing crypto wallets.
 - [Hub Permissions](https://github.com/holaplex/hub-permissions) - Contains all permission relationships for the Hub. Leverages Ory Keto.
 - [Hub Identities](https://github.com/holaplex/hub-identities) - Manages all identities for Hub. GraphQL API for Ory Kratos.
-- [Hub Credentials](https://github.com/holaplex/hub-credentials) - Create API credentials for Hub. GaphQL API for Ory Hydra. 
+- [Hub Credentials](https://github.com/holaplex/hub-credentials) - Create API credentials for Hub. GraphQL API for Ory Hydra. 
 - [Hub Webhooks](https://github.com/holaplex/hub-webhooks) - Receive webhook events as Hub resources change using [Svix](https://github.com/svix/svix-webhooks/) webhooks service.
 
 ## Reference Projects
@@ -37,4 +37,4 @@ A few reference project that demonstrate how to work with Hub to create unique N
 
 ## Open Source
 
-Holaplex is committed to building in the open with all of our services publicly viewable from day 1 and licensed under GNU Affero General Public License v3.0.
+Holaplex is committed to building in the open. All of our services have been publicly viewable from Day 1 and licensed under GNU Affero General Public License v3.0.
