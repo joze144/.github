@@ -15,6 +15,7 @@ Visit our docs site at [https://docs.holaplex.dev](https://docs.holaplex.dev) to
 
 Hub is a collection of loosely coupled microservices that emits and process messages through a shared [Redpanda](https://redpanda.com/) cluster, a Kafka compatible streaming data platform. The services also expose their own [GraphQL API](https://graphql.org/) that are stitched together into a single API endpoint using [Apollo Federated Router](https://www.apollographql.com/docs/router/).
 
+- [Hub Console](https://github.com/holaplex/hub) - Friendly management console for interacting with the Hub API.
 - [Hub NFTs](https://github.com/holaplex/hub-nfts) - Multi-chain minting and indexing of NFT campaigns.
 - [Hub Orgs](https://github.com/holaplex/hub-orgs) - Catalogue of all organizations, projects, and memberships for Hub. 
 - [Hub Treasuries](https://github.com/holaplex/hub-orgs) - Create crypto wallets using [Fireblocks](https://www.fireblocks.com/) and submit blockchain transactions using Hub custodial wallets.
@@ -28,7 +29,7 @@ Hub is a collection of loosely coupled microservices that emits and process mess
 
 A few reference project that demonstrate how to work with Hub to create unique NFT campaigns.
 
-- [Eluvio SxSW Scavenger Hunt](https://github.com/holaplex/eluvio-sxsw) - At SxSW 2023 Holaplex partnered up with Eluvio to offer attends a scavenger hunt where they scanned access badges using NFC to collect NFT keys that unlocked viewing of a video demo of Holaplex Hub.
+- [Eluvio SxSW Scavenger Hunt](https://github.com/holaplex/eluvio-sxsw) - At SxSW 2023 Holaplex partnered up with Eluvio to offer attendees a scavenger hunt where they scanned access badges using NFC to collect NFT keys that unlocked viewing of a video demo of Holaplex Hub.
 
   Showcases:
     - Custodial Wallets
